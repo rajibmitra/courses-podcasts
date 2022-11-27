@@ -19,7 +19,7 @@ curated list of the freely available courses I want to finish
 2. GitOps with TF - https://www.youtube.com/watch?v=EXp2xAbII_k 
 3. CNI, CRI, OCI -  https://www.youtube.com/watch?v=1FEBOXpTI0M
 4. Simple CNI with golang - https://www.youtube.com/watch?v=Joqp5wHy79Y
-5. 
+
 
 
 
